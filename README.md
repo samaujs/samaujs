@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samaujs
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently exploring Machine Learning, Reinforcement Learning and Transfer Learning
+- 🌱 I’m currently working on Generative AI, Machine Learning, Reinforcement Learning and Transfer Learning
 - 💞️ I’m looking to collaborate on Data Science and Big Data projects
 - 📫 Please feel free to drop me a note
 
